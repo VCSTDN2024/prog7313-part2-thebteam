@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9bcc3afb-0777-402e-ba84-e5231fb87cbd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/Apk PocketSafe build 1.1/PocketSafever1.1.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/androidTest/java/vcmsa/projects/loginpage/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/AccountElements/Account.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/AccountElements/AccountDao.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/AppDatabase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/BudgetGoals/Goals.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/CategoryElements/AddCategory.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/CategoryElements/Category.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/CategoryElements/CategoryDao.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/CategoryElements/CategoryRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/ExpenseElements/Expense.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/ExpenseElements/ExpenseRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/ExpenseElements/ExpensesDao.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/ExpenseEntry.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/MainMenu.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/RegisterActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/ViewCategories.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/ViewExpensesActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/ViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/ui/theme/WoodPalette.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/user/User.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/user/UserDao.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/user/UserDatabase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/java/vcmsa/projects/loginpage/user/UserList.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/drawable/curved_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/drawable/curved_button.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/drawable/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/app/src/test/java/vcmsa/projects/loginpage/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/LoginPage/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First functionaing iteration(Working Build)/README PocketSafe.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\Keana\.android\avd\Pixel_9_Pro.avd)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\ProgramData\Desktop" />
+    <option name="KEY_ALIAS" value="PocketS" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2wNdOjXXje9O0q333GIkY60BfFD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "AnalyzeApkAction.lastApkPath": "C:/Users/Keana/Desktop/Part 2 final functionality BTeam/LoginPage/app/build/outputs/apk/debug/app-debug.apk",
+    "Android App.app.executor": "Run",
+    "ApkExportedModule": "Login_Page.app",
+    "ExportApk.ApkPathForLogin_Page.app": "C:\\Users\\Keana\\Desktop\\Part 2 final functionality BTeam\\LoginPage\\app",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Keana/Documents/First functionaing iteration(Working Build)/Under contruction adding ux and features(Part 3)/PocketSafeKeen"
+  },
+  "keyToStringList": {
+    "ExportApk.BuildVariants": [
+      "release"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Login_Page.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bcc3afb-0777-402e-ba84-e5231fb87cbd" name="Changes" comment="" />
+      <created>1745885934631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745885934631</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="play_dynamic_filters_status">
+    <option name="appIdToCheckInfo">
+      <map>
+        <entry key="vcmsa.projects.loginpage">
+          <value>
+            <CheckInfo lastCheckTimestamp="1746135693285" />
+          </value>
+        </entry>
+        <entry key="vcmsa.projects.loginpage.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1746135693284" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Base denim color -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#1E3F66"/>
+        </shape>
+    </item>
+    
+    <!-- Denim texture pattern -->
+    <item>
+        <bitmap
+            android:src="@drawable/denim_texture"
+            android:tileMode="repeat"
+            android:alpha="0.1"/>
+    </item>
+    
+    <!-- Pocket shadow -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:type="linear"
+                android:angle="45"
+                android:startColor="#00000000"
+                android:centerColor="#33000000"
+                android:endColor="#00000000"/>
+        </shape>
+    </item>
+</layer-list> 
