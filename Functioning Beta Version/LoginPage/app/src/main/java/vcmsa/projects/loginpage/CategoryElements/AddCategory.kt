@@ -13,7 +13,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.lifecycleScope
 import kotlinx.coroutines.launch
-import vcmsa.projects.loginpage.data.DatabaseProvider
+import vcmsa.projects.loginpage.data.AppDatabase
 import vcmsa.projects.loginpage.ui.theme.LoginPageTheme
 
 class AddCategory : ComponentActivity() {
@@ -87,7 +87,7 @@ class AddCategory : ComponentActivity() {
                         Button(
                             onClick = {
                                 if (categoryName.isNotBlank()) {
-                                    val db = DatabaseProvider.getDatabase(applicationContext)
+                                    val db = AppDatabase.getDatabase(applicationContext)
                                     val newCategory = Category(name = categoryName, total = 0.0)
 
                                     lifecycleScope.launch {

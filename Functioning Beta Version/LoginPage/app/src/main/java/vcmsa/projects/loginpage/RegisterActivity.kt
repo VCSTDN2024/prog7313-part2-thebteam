@@ -21,6 +21,7 @@ import androidx.compose.ui.unit.sp
 import kotlinx.coroutines.launch
 import vcmsa.projects.loginpage.ui.theme.LoginPageTheme
 import androidx.compose.foundation.clickable
+import androidx.compose.ui.tooling.preview.Preview
 import vcmsa.projects.loginpage.user.UserList
 
 class RegisterActivity : ComponentActivity() {
@@ -33,7 +34,7 @@ class RegisterActivity : ComponentActivity() {
         }
     }
 }
-
+@Preview
 @Composable
 fun RegisterScreen() {
     val context = LocalContext.current

@@ -12,11 +12,11 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import vcmsa.projects.loginpage.CategoryElements.Category
-import vcmsa.projects.loginpage.data.DatabaseProvider
 import vcmsa.projects.loginpage.ui.theme.LoginPageTheme
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.foundation.rememberScrollState
 import kotlinx.coroutines.launch
+import vcmsa.projects.loginpage.data.AppDatabase
 
 class ViewCategories : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -37,14 +37,14 @@ fun CategoryListScreen(activity: ComponentActivity) {
     val coroutineScope = rememberCoroutineScope()
 
     LaunchedEffect(Unit) {
-        val db = DatabaseProvider.getDatabase(activity.applicationContext)
+        val db = AppDatabase.getDatabase(activity.applicationContext)
         categoryList = db.categoryDao().getAllCategories()
     }
 
     // Function to delete category by ID
     fun deleteCategory(categoryId: Int) {
         coroutineScope.launch {
-            val db = DatabaseProvider.getDatabase(activity.applicationContext)
+            val db = AppDatabase.getDatabase(activity.applicationContext)
             db.categoryDao().deleteCategoryById(categoryId)
             categoryList = categoryList.filter { it.id != categoryId } // Update the category list after deletion
         }
@@ -151,3 +151,5 @@ fun CategoryListScreen(activity: ComponentActivity) {
         )
     }
 }
+
+//

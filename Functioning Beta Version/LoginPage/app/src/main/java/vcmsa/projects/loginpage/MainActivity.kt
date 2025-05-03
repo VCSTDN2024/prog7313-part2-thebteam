@@ -40,7 +40,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+@Preview
 @Composable
 fun LoginPageLayout(modifier: Modifier = Modifier) {
     var email by remember { mutableStateOf("") }

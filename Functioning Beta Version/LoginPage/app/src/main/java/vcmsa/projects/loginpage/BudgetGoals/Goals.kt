@@ -14,6 +14,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.style.TextDecoration
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import kotlinx.coroutines.launch
 import vcmsa.projects.loginpage.MainMenu
@@ -33,7 +34,7 @@ class Goals : ComponentActivity() {
         }
     }
 }
-
+@Preview
 @Composable
 fun GoalsScreen() {
     val context = LocalContext.current
@@ -186,9 +187,9 @@ fun GoalsScreen() {
                 income = ""
             },
             modifier = Modifier.fillMaxWidth(),
-            colors = ButtonDefaults.buttonColors(containerColor = Color(0xFFD2B29D)) // Teak color
+            colors = ButtonDefaults.buttonColors(containerColor = Color(0xFFD2B29D))
         ) {
-            Text("Set", color = Color(0xFF5C4033)) // Beige color for text
+            Text("Set", color = Color(0xFF5C4033)) // decide to go for a more contrast color to the button to make clear the words
         }
     }
 }
